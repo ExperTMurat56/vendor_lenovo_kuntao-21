@@ -54,9 +54,4 @@
         <AppAttributes
             PackageName="com.tencent.mm" />
     </NetTriggerApps>
-    <HWAccelApps>
-        <AppAttributes PackageName="com.tencent.mobileqq" />
-        <AppAttributes PackageName="com.taobao.taobao" />
-        <AppAttributes PackageName="com.youdao.dict" />
-    </HWAccelApps>
 </AppCatalog>
