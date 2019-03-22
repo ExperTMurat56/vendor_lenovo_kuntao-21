@@ -6,6 +6,7 @@
 
 on post-fs-data
     mkdir /data/dpm 0771 system system
+    chown system system /data/dpm
 
 #start dpmd service
 service dpmd /system/bin/dpmd
