@@ -20,7 +20,7 @@ ifeq ($(TARGET_DEVICE),kuntao)
 
 include $(CLEAR_VARS)
 LOCAL_MODULE := vendor.display.color@1.0
-LOCAL_MODULE_OWNER := xiaomi
+LOCAL_MODULE_OWNER := lenovo
 LOCAL_SRC_FILES_64 := proprietary/lib64/vendor.display.color@1.0.so
 LOCAL_SRC_FILES_32 := proprietary/lib/vendor.display.color@1.0.so
 LOCAL_MULTILIB := both
