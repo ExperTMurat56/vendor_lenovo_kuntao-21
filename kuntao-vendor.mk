@@ -833,6 +833,7 @@ vendor/lenovo/kuntao/proprietary/vendor/lib64/libthermalioctl.so:$(TARGET_COPY_O
 vendor/lenovo/kuntao/proprietary/vendor/lib64/libtime_genoff.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libtime_genoff.so \
 vendor/lenovo/kuntao/proprietary/vendor/lib64/libtinyxml2_1.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libtinyxml2_1.so \
 vendor/lenovo/kuntao/proprietary/vendor/lib64/libulp2.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libulp2.so \
+vendor/lenovo/kuntao/proprietary/vendor/lib64/libvcsfp.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libvcsfp.so \
 vendor/lenovo/kuntao/proprietary/vendor/lib64/libwms.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libwms.so \
 vendor/lenovo/kuntao/proprietary/vendor/lib64/libwqe.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libwqe.so \
 vendor/lenovo/kuntao/proprietary/vendor/lib64/libwvhidl.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libwvhidl.so \
